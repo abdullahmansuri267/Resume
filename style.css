@@ -1,0 +1,18 @@
+.names {
+  background-color: #000000;
+  color: #fdfefe;
+  text-align: center;
+}
+.headings {
+  background-color: #cfd7d7;
+  font-size: 20px;
+}
+.title {
+  color: #e9967a;
+  font-size: 20px;
+}
+.lists {
+  position: absolute;
+  top: 220px;
+  left: 500px;
+}
